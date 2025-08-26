@@ -52,7 +52,7 @@ O projeto está alinhado com práticas pedagógicas modernas, como a gamificaç�
 ## Download do Mapa
 
 O arquivo zipado do mapa CPTECRAFT está disponível para download no link:  
-[Insira aqui o link do Google Drive]
+[Insira aqui o link do Google Drive](https://drive.google.com/file/d/1FLsctuhfPGX4E1LXPZdEs9_hFRtv9yz5/view?usp=sharing)
 
 Após baixar, descompacte o arquivo e siga o passo a passo acima.
 
