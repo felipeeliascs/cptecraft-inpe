@@ -98,3 +98,9 @@ Projeto desenvolvido no âmbito do **Programa Institucional de Bolsas de Inicia�
 **Bolsista:** Cauã Pietro Assunção Souza da Silva  
 **Orientadora:** Rosemary Aparecida Odorizi Lima  
 **Coorientador:** Felipe Elias Costa da Silva
+
+## Licença
+
+O conteúdo original deste repositório é distribuído sob a licença [MIT](LICENSE).
+
+Minecraft, modificações, marcas e materiais de terceiros permanecem sujeitos às licenças e aos direitos de seus respectivos titulares.
