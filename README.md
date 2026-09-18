@@ -1,91 +1,100 @@
-# CPTECRAFT - CPTEC/INPE no Mundo Virtual Minecraft
+# CPTECRAFT — O CPTEC/INPE no Mundo Virtual
 
-## Descrição
-O CPTECRAFT é um ambiente virtual imersivo desenvolvido dentro do Minecraft que reproduz detalhadamente o CPTEC/INPE, integrando recursos de realidade virtual e gamificação para promover o ensino de ciência, tecnologia, engenharia e matemática (STEM) para crianças e adolescentes. Este projeto visa democratizar o acesso ao conhecimento científico de forma lúdica, significativa e sustentável.
+O **CPTECRAFT** é um ambiente virtual educacional que integra tecnologia digital, divulgação científica e educação por meio de uma representação do **Centro de Previsão de Tempo e Estudos Climáticos (CPTEC/INPE)** no Minecraft.
 
----
+O projeto busca aproximar estudantes da Educação Básica de temas relacionados à meteorologia, clima, ciência, engenharia e tecnologia por meio de uma visita virtual orientada, com exploração de espaços, pontos de interesse, missões, desafios e conteúdos científicos.
 
-## Sobre o Projeto Científico
+## Projeto científico
 
-- **Projeto de Iniciação Científica Júnior**
-- Integrante do programa de educação científica do CPTEC/INPE, financiado pelo CNPq.
-- Desenvolvido por **Cauã Pietro Assunção Souza Da Silva** (aluno)
-- Orientação de **Rosemary Aparecida Odorizi Lima** (Esp.)  
-  Coorientação de **Felipe Elias Costa da Silva** (Mestrando)
+- **Modalidade:** Iniciação Científica — PIBIC/INPE
+- **Vigência:** 2025–2026
+- **Bolsista:** Cauã Pietro Assunção Souza da Silva
+- **Orientadora:** Rosemary Aparecida Odorizi Lima
+- **Coorientador:** Felipe Elias Costa da Silva
+- **Instituição:** Instituto Nacional de Pesquisas Espaciais — INPE
 
-O relatório científico do projeto apresenta uma abordagem inovadora, onde o ambiente do CPTEC é representado no Minecraft Java Edition com uso da plataforma Forge (para customizações) e do mod Vivecraft (para integração VR). A pesquisa incluiu o desenvolvimento de óculos de realidade virtual artesanais, oficinas educativas, e eventos práticos com diferentes faixas etárias durante o III Encontro de Jovens Cientistas.
+## Objetivo
 
-O projeto está alinhado com práticas pedagógicas modernas, como a gamificação, o uso de tecnologia de baixo custo e a promoção de atividades colaborativas. Os resultados destacam alto engajamento dos participantes, impacto positivo na motivação para aprender ciências e foco na inclusão digital e sustentável.
+Aprimorar e ampliar o CPTECRAFT como ambiente virtual interativo para divulgação científica e educação, reproduzindo o CPTEC/INPE no Minecraft e preparando uma avaliação sistemática de sua contribuição para estudantes da Educação Básica.
 
----
+## Tecnologias e recursos
 
-## Instalação do Mapa CPTECRAFT
+- **Minecraft Java Edition** — plataforma principal da versão mais completa do ambiente;
+- **Forge** — integração das modificações utilizadas no projeto;
+- **Vivecraft** — integração com realidade virtual;
+- **Create** — mecanismos e estações educacionais relacionados a princípios de física, mecânica e funcionamento de máquinas;
+- **Minecraft Bedrock Edition** — versão simplificada em desenvolvimento para ampliar o acesso por celulares e consoles;
+- **Realidade virtual de baixo custo** — protótipos de visualizadores com materiais acessíveis e smartphones.
 
-### Requisitos
-- Minecraft Java Edition (Launcher Oficial ou TLauncher)
-- Sistema operacional compatível: Windows, MacOS ou Linux
+## Desenvolvimento 2025–2026
 
-### Passo a Passo
+A versão Java recebeu melhorias na arquitetura da réplica, texturas, iluminação, ambientação, sinalização, conteúdos científicos e organização dos trajetos de visita.
 
-1. **Baixe o mapa CPTECRAFT**
-   - Baixe o arquivo do mapa CPTECRAFT no formato ZIP.
+Foram estruturadas **quatro estações educacionais**, concebidas para organizar a experiência em etapas e relacionar a exploração do ambiente a desafios, explicações e tarefas.
 
-2. **Extraia o conteúdo**
-   - Extraia o arquivo ZIP. Dentro dele haverá uma pasta chamada `CPTECRAFT`.
+Também avançou a reconstrução do ambiente para a **Minecraft Bedrock Edition**, priorizando os espaços essenciais, a navegação e os conteúdos que possam ser utilizados em dispositivos móveis e consoles.
 
-3. **Acesse a pasta de salvamento do Minecraft**
-   - Windows: `C:\Users\<seu_usuario>\AppData\Roaming\.minecraft\saves`
-   - MacOS: `~/Library/Application Support/minecraft/saves`
-   - Linux: `~/.minecraft/saves`
+## Situação em 2026
 
-4. **Copie a pasta do mapa**
-   - Mova ou copie a pasta do mapa extraída para dentro da pasta `saves`.
+| Componente | Situação |
+|---|---|
+| Réplica virtual — Java Edition | Consolidada e em aprimoramento |
+| Integração Forge + Vivecraft | Funcional |
+| Mecanismos com Create | Implementados parcialmente |
+| Quatro estações educacionais | Estruturadas |
+| Visualizador de realidade virtual de baixo custo | Protótipo disponível |
+| Versão Bedrock | Em desenvolvimento |
+| Avaliação educacional formal | Planejada e condicionada à aprovação ética |
+| Artigo científico | Em preparação metodológica |
 
-5. **Abra o Minecraft**
-   - Inicie o Minecraft.
+## SICINPE-2026 — Menção Honrosa
 
-6. **Selecione o mapa**
-   - Clique em “Um jogador” (“Single Player”) e o mapa CPTECRAFT estará na lista de mundos.
+O projeto foi apresentado no **SICINPE-2026 — Seminário de Iniciação Científica e Iniciação em Desenvolvimento Tecnológico e Inovação**, realizado no INPE, em São José dos Campos.
 
----
+O bolsista **Cauã Pietro Assunção Souza da Silva** recebeu **Menção Honrosa** pela apresentação do CPTECRAFT, que obteve avaliação **9,92**.
 
-## Download do Mapa
+📄 [Avaliação da Apresentação do Trabalho — Notas dos Participantes do SICINPE-2026](https://www.gov.br/inpe/pt-br/area-conhecimento/fomento-a-pesquisa-e-desenvolvimento/pibic-pibiti/repositorio-de-arquivos/divulgacao-das-notas-dos-participantes-do-sincipe-2026.pdf)
 
-O arquivo zipado do mapa CPTECRAFT está disponível para download no link:  
-[Insira aqui o link do Google Drive](https://drive.google.com/file/d/1FLsctuhfPGX4E1LXPZdEs9_hFRtv9yz5/view?usp=sharing)
+## Próxima etapa da pesquisa
 
-Após baixar, descompacte o arquivo e siga o passo a passo acima.
+A continuidade do projeto separa o **desenvolvimento do produto tecnológico** da **avaliação de seus efeitos educacionais**. Os feedbacks anteriores são tratados como registros exploratórios e não como evidência conclusiva de aprendizagem ou aumento de interesse por ciências.
 
----
+A pesquisa educacional prevista terá abordagem mista e deverá investigar:
 
-## Avalie sua Experiência!
+- compreensão das funções do CPTEC/INPE;
+- interesse por ciências;
+- usabilidade percebida;
+- dificuldades e estratégias de navegação.
 
-Já explorou o mundo do CPTECRAFT? Gostou das aventuras, da imersão e das missões? Agora queremos ouvir você!
+Antes de qualquer coleta formal com estudantes, o protocolo deverá ser submetido ao **Comitê de Ética em Pesquisa**. Após aprovação, está previsto um estudo piloto para verificar duração, clareza das instruções, estabilidade técnica, adequação da linguagem e funcionamento dos instrumentos.
 
-**Depois de instalar e se divertir com o mapa, volte aqui e deixe sua opinião sincera no nosso formulário rapidinho:**  
+## Download do mapa — Java Edition
 
-[Link para o Formulário Google]
+[Baixar mapa CPTECRAFT pelo Google Drive](https://drive.google.com/file/d/1FLsctuhfPGX4E1LXPZdEs9_hFRtv9yz5/view?usp=sharing)
 
-Sua opinião é super importante para ajudar a tornar o CPTECRAFT cada vez melhor. Não seja tímido(a), conte pra gente o que você achou, o que gostou e o que podemos melhorar. Vamos juntos construir uma experiência incrível! 😉
+### Instalação
 
----
+1. Baixe e extraia o mapa.
+2. Copie a pasta `CPTECRAFT` para a pasta `saves` do Minecraft Java Edition.
+3. Inicie o Minecraft com a versão e as modificações compatíveis.
+4. Acesse **Um jogador / Single Player** e selecione o mundo CPTECRAFT.
 
-## Resultados e Impacto
+## Documentação
 
-- Alta motivação para aprender ciência (média do questionário: 4,6/5)
-- Facilidade de uso dos óculos VR artesanais (4,1/5)
-- Diversão/engajamento nas atividades (4,8/5)
-- Recomendação por participantes (4,7/5)
-- Metodologia avaliada em oficinas, encontros científicos e por diferentes faixas etárias
+- [Trilha de desenvolvimento do CPTECRAFT — PDF](DESENVOLVIMENTO%20-%20CPTECRAFT%20INPE%20-%2029-08-2025.pdf)
+- [Registros visuais do projeto](imagens/)
+- [Mapa CPTECRAFT v0.2](MAPA%20CPTECRAFT%20v0.2.url)
 
-O projeto demonstrou potencial para ampliação institucional, replicação em outras escolas, formação de professores e aumento da inclusão científica entre jovens brasileiros.
+## Continuidade
 
----
+As próximas etapas incluem submissão ética, estudo piloto, revisão das missões e instrumentos, aplicação principal, análise dos dados e preparação de artigo científico.
 
-## Contato
+O planejamento indica a **Revista Brasileira de Informática na Educação (RBIE)** como periódico prioritário, com **RENOTE** e **REnCiMa** como alternativas.
 
-Para dúvidas, sugestões ou colaboração científica:
-- Email: [cptecraft@gmail.com]
-- GitHub: [https://github.com/felipeeliascs/cptecraft-inpe/]
+## Créditos
 
----
+Projeto desenvolvido no âmbito do **Programa Institucional de Bolsas de Iniciação Científica do INPE (PIBIC)**, com apoio do **CNPq**.
+
+**Bolsista:** Cauã Pietro Assunção Souza da Silva  
+**Orientadora:** Rosemary Aparecida Odorizi Lima  
+**Coorientador:** Felipe Elias Costa da Silva
